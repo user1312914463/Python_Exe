@@ -1,0 +1,1 @@
+当你阅读完README后，打开programing中的main.py文件，使用python运行
